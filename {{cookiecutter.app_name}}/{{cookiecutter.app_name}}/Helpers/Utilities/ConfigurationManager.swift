@@ -15,8 +15,8 @@ class ConfigurationManager {
 
     enum Configuration: String {
         case debug = "Debug"
-        case release = "Release"
-        case production = "Production"
+        case staging = "Staging"
+        case production = "Release"
     }
 
     // MARK: Shared instance
