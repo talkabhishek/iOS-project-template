@@ -1,4 +1,6 @@
 {
     "app_name": "MyApp",
-    "company_name": "MyCompany"
+    "company_name": "MyCompany",
+    "creater": "Abhishek Singh",
+    "date": "12/08/20"
 }

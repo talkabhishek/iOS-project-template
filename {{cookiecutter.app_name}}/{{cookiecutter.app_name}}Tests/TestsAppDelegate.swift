@@ -2,6 +2,7 @@
 //  TestsAppDelegate.swift
 //  {{cookiecutter.app_name}}Tests
 //
+//  Created by {{cookiecutter.creater}} on {{cookiecutter.date}}.
 //  Copyright © {{cookiecutter.company_name}}. All rights reserved.
 //
 

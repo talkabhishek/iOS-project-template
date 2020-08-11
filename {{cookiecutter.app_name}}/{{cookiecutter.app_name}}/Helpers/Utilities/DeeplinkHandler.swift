@@ -2,6 +2,7 @@
 //  DeeplinkHandler.swift
 //  {{cookiecutter.app_name}}
 //
+//  Created by {{cookiecutter.creater}} on {{cookiecutter.date}}.
 //  Copyright © {{cookiecutter.company_name}}. All rights reserved.
 //
 
